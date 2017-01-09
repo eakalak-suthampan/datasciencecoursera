@@ -24,4 +24,4 @@ Thank You.
 
 Eakalak Suthampan
 
-DataScience specialization at coursera student
+Coursera Student (DataScience specialization)

@@ -5,7 +5,7 @@ This project will do about "getting and cleaning data" using data downloaded fro
 1. README.md (this one, for explain about this project)
 2. run_analysis.R (R code for run the analysis and product a tidy dataset which is the file in number 3)
 3. tidy_dataset.txt (a tidy dataset produced from run_analysis.R)
-4. codebook.md (the codebook for explaining tidy_dataset.txt)
+4. CodeBook.md (the codebook for explaining tidy_dataset.txt)
 
 ### How to run "run_analysis.R"
 

@@ -6,7 +6,7 @@ Please run "run_analysis.R" to get final dataset represents an average of each s
 
 ## This project contains the following files.
 1. README.md (this one, for explain about this project)
-2. run_analysis.R (R code for run the analysis and product a tidy dataset which is the file in number 3)
+2. run_analysis.R (R code which do the analysis and produces tidy_dataset.txt)
 3. tidy_dataset.txt (a tidy dataset produced from run_analysis.R)
 4. CodeBook.md (the codebook for explaining tidy_dataset.txt)
 
